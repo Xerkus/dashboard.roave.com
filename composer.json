@@ -1,0 +1,12 @@
+{
+    "name": "roave/dashboard.roave.com",
+    "description": "Roave Dashboard Application",
+    "license": "",
+    "keywords": [
+    ],
+    "homepage": "http://dashboard.roave.com/",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zendframework": "~2.3"
+    }
+}
